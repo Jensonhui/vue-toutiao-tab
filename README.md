@@ -1,7 +1,7 @@
 # vue-toutiao-tab
 vue仿今日头条Tab切换, 暂不支持tab使用居中展示, 拜谢大佬优化
 
-#### 移动端滑动效果 v-touch
+#### 一. 移动端滑动效果 v-touch
 1 . 安装v-touch: 
 cnpm install vue-touch@next --save dev
 
@@ -10,5 +10,5 @@ cnpm install vue-touch@next --save dev
  Vue.use(VueTouch, { name: 'v-touch' })
 
 
-#### 过渡动画 transition-group + animate.css
+#### 二. 过渡动画 transition-group + animate.css
 [Just-add-water CSS animations](https://daneden.github.io/animate.css/)
