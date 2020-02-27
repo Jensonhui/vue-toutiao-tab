@@ -12,3 +12,8 @@ cnpm install vue-touch@next --save dev
 
 #### 二. 过渡动画 transition-group + animate.css
 [Just-add-water CSS animations](https://daneden.github.io/animate.css/)
+
+#### 三. 新增加了组件
+npm install
+
+npm run serve
